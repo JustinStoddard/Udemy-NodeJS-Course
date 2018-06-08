@@ -4,4 +4,4 @@ var greet = function () {
   console.log(greetings.es);
 };
 
-module.exports = greet;
+module.exports = greet;q
